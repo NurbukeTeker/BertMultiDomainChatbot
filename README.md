@@ -20,9 +20,13 @@ Optimizer: AdamW
 ![image](https://user-images.githubusercontent.com/37930894/159634233-4010a6c7-edbd-429d-abcb-59d50edae2f4.png)
 
 Model Sonuçları: 
+
 Accuracy_score:  0.9747799191054008
+
 F-Score:  0.9755333446162492
+
 Recall:  0.9766717184703382
+
 Precision:  0.974592410342398
 
 Confusion Matrix:
